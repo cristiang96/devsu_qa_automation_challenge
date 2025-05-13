@@ -35,7 +35,7 @@ cypress/
 ## Project Setup and Run tests
 
 1. Clone the repository:
-    - 
+    - git clone https://github.com/cristiang96/devsu_qa_automation_challenge.git
 
 2. Install dependencies:
     - npm install
