@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "tests:headed": "cypress run --headed",
+    "tests": "cypress run",
+    "e2e:tests": "cypress run --spec \"cypress/e2e/tests/**/*\"",
+    "api:tests": "cypress run --spec \"cypress/api/tests/**/*\""
+  },
+  "dependencies": {
+    "cypress": "^14.3.3",
+    "@faker-js/faker": "^9.7.0"
+  }
+}
